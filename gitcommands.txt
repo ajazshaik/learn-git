@@ -10,6 +10,12 @@ git status   - to check the files status
 
 git add  "filename"   - this allows to add latest files/folder added
 
+git add -A  - allows you to add all files at once
+
+git commit -a  - allows you to commit all files at once
+
+
+
 git commit -m "message"  - this allows you to commit the changes you have done with custom message
 
 
