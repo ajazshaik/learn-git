@@ -14,7 +14,7 @@ git add -A  - allows you to add all files at once
 
 git commit -a  - allows you to commit all files at once
 
-
+git log  - shows you logs of files you commited
 
 git commit -m "message"  - this allows you to commit the changes you have done with custom message
 
