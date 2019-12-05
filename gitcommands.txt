@@ -18,5 +18,8 @@ git log  - shows you logs of files you commited
 
 git commit -m "message"  - this allows you to commit the changes you have done with custom message
 
+git branch branchname  - this creates a branch
+
+git checkout branchname   - this switch from master to your branch
 
 
