@@ -22,4 +22,6 @@ git branch branchname  - this creates a branch
 
 git checkout branchname   - this switch from master to your branch
 
+git merge branchname - this will merge the branch u created with master
+
 
